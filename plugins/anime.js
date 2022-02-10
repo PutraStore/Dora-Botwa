@@ -10,7 +10,7 @@ let handler = async(m, { conn, args, usedPrefix }) => {
             .then(body => {
                 let randomnime = body.split('\n')
                 let randomnimex = randomnime[Math.floor(Math.random() * randomnime.length)]
-                conn.sendFile(m.chat, randomnimex, '', 'Dasar Wibu', m)
+                conn.sendFile(m.chat, randomnimex, '', 'Lari Ada Wibu', m)
             })
             .catch(() => {
                 conn.reply(m.chat, 'Ada yang Error cuy... ', m)
