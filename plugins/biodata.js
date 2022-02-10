@@ -8,7 +8,7 @@ let logo = global.logoowner
 *💌 Nama* : Adri
 *🎨 Umur* : 12
 *🧮 Kelas* : 7
-*📈 Status* : Pacaran;V
+*📈 Status* : ???
 
 *───────[ SOSIAL MEDIA ]───────*
 *📷 instagran* : none
